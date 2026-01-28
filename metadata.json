@@ -1,0 +1,7 @@
+{
+  "name": "Entreprise ABC - Atelier de Câblage et de Bobinage",
+  "description": "Site vitrine professionnel pour l'Atelier de Câblage et de Bobinage (Entreprise ABC) à N'Djamena, spécialisé en électromécanique depuis 2007.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
